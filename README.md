@@ -26,18 +26,18 @@ Added columns that provided additional insights into car prices.<br>
 Normalized columns to standardize the data.<br>
 #Visualization
 <div>
-Applied different types of visualizations to uncover insights:
-Univariate Analysis: Examined individual features.
-Bi-Variate Analysis: Investigated relationships between pairs of features.
-Multivariate Analysis: Explored interactions among multiple features.
+Applied different types of visualizations to uncover insights:<br>
+Univariate Analysis: Examined individual features.<br>
+Bi-Variate Analysis: Investigated relationships between pairs of features.<br>
+Multivariate Analysis: Explored interactions among multiple features.<br>
 </div>
 <div>
-#Key Insights
-Car Seating Capacity: 2-seat cars tend to be priced higher due to customer preference.
-Car Age: Car prices decrease as the car's age increases.
-Ownership: First-owner cars generally command higher prices compared to second or third owners.
-Fuel Type: Increased fuel prices have shifted customer preference towards electric vehicles.
-Transmission Type: Automatic transmission vehicles are preferred over manual ones for their ease of use.
+#Key Insights<br>
+Car Seating Capacity: 2-seat cars tend to be priced higher due to customer preference.<br>
+Car Age: Car prices decrease as the car's age increases.<br>
+Ownership: First-owner cars generally command higher prices compared to second or third owners.<br>
+Fuel Type: Increased fuel prices have shifted customer preference towards electric vehicles.<br>
+Transmission Type: Automatic transmission vehicles are preferred over manual ones for their ease of use.<br>
 </div>
 
 
